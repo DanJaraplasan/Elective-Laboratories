@@ -45,7 +45,6 @@ This repository serves as:
 ---
 
 ## 🛠️ Technologies Used
-*(Edit this based on your actual projects)*
 
 - Canva  
 - Google Sheets  
